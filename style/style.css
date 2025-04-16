@@ -16,6 +16,48 @@
     background-color: #F2CEDA;
     height: 860px;
 }
+.intro{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.intro_left{
+    max-width:  665px;
+    width: 100%;
+}
+.minimatn{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 10%;
+
+}
+.intro_title{
+   font-family: Fredoka One;
+   font-weight: 400;
+   font-size: 57.33px;
+   line-height: 121%;
+}
+.intro_text{
+    font-family: Hind Madurai;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+.intro_link{
+    font-family: Hind Madurai;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+    text-decoration: none;
+    color: #FAFAFA;
+    background-color: #D23166;
+    padding: 13px 50px;
+    border-radius:10px;
+    margin-top: 50px;
+}
+=======
 .nav_logo{
     display: flex;
     flex-direction: column;
