@@ -14,3 +14,19 @@
     background-color: #F2CEDA;
     height: 860px;
 }
+.nav_logo{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 80px;
+    text-align: center;
+    display: block;
+}
+.nav_list{
+    display: flex;
+    justify-content:center;
+    gap: 30px;
+    
+}
+
+
+    
