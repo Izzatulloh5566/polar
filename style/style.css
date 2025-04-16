@@ -6,6 +6,7 @@
 }
 
 .container {
+    display: flex;
     max-width: 1140px;
     width: 100%;
     margin: 0 auto;
@@ -16,6 +17,27 @@
     background-color: #F2CEDA;
     height: 860px;
 }
+
+.nav_logo {
+    width: 79;
+    height: 79;
+    top: 10px;
+    left: 245px;
+}
+
+ul {
+    list-style: none;
+    margin: 30px;
+}
+
+.nav_list {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.nav_link {}
+=======
 .intro{
     display: flex;
     justify-content: space-between;
